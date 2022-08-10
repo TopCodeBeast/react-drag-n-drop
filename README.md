@@ -88,4 +88,3 @@ So the idea is that you wrap your components in *Draggable* and *Droppable* cont
 
 * Initial release :tada:
 
-enjoy
